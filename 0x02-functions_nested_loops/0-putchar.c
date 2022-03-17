@@ -1,15 +1,10 @@
 #include "main.h"
+#include <stdio.h>
 
 /**
  * main - prints _putchar
- *
- *
  * Description: prints _putchar
- *
- *
- *
  * Return: 0 (Success)
- *
  **/
 
 int main(void)
