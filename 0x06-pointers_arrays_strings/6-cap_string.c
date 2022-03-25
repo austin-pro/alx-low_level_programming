@@ -2,7 +2,6 @@
 #include <stdio.h>
 
 /**
- *
  * isLower - determines whether ascii is lowercase
  *
  * @c: character
@@ -38,7 +37,6 @@ int isDelimiter(char c)
 }
 
 /**
- *
  * cap_string - capitalizes all words of a string
  *
  * @s: input string
