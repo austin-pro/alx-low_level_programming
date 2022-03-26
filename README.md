@@ -1,1 +1,1 @@
-More pointer arrays
+starting on c programming
